@@ -16,9 +16,9 @@ console.log(PI)
 // let -> criar uma variável que pode sofrer alterações
 let nomeCompleto
 console.log(nomeCompleto)
-nomeCompleto = "Gustavo"
+nomeCompleto = "Rickson"
 console.log(nomeCompleto)
-nomeCompleto = "Gustavo Clay"
+nomeCompleto = "Rickson Deivid"
 console.log(nomeCompleto)
 
 /* 
@@ -83,15 +83,15 @@ console.log(listaDeCarros)
 
 // Object
 let pessoa = {
-    nome: "Gustavo Clay",
+    nome: "Rickson Deivid",
     idade: 20,
     curso: "ADS",
-    matricula: "202255522",
+    matricula: "23114290003",
     instituicao: "IESB",
     endereco: {
         cep: "72000000",
-        cidade: "Cei",
-        numero: 20
+        cidade: "Braz",
+        numero: 78
     }
 }
 
@@ -99,7 +99,7 @@ let pessoa = {
 console.log(pessoa.nome)
 // console.log(pessoa.endereco)
 
-pessoa.nome = "Carlos andrade"
+pessoa.nome = "Gessi Manoel"
 console.log(pessoa.nome.toUpperCase())
 
     // Operadores Aritméticos
